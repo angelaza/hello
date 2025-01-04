@@ -31,6 +31,7 @@ def example_base():
         常规操作
     """
     a = 1; b = 2666; c = 3
+    d=8
     b, c = c, b
     a < c < b < 5
     '1' * 100

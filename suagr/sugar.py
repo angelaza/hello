@@ -30,7 +30,7 @@ def example_base():
     """
         常规操作
     """
-    a = 1; b = 2; c = 3
+    a = 1; b = 23; c = 3
     b, c = c, b
     a < c < b < 5
     '1' * 100

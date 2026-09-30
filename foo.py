@@ -12,8 +12,7 @@ while True:
         if user_name1 == user_name and password1 == password:
             print("login success\r\n")
         else:
-            print("login fail")
-            print("login fail")
+            print("login fail6")
     elif in_put == '0':
         break
 
